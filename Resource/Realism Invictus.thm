@@ -1,0 +1,7 @@
+// *** Control Bitmap Theme file
+
+// Set the resource 
+resource_path "Mods/Realism Invictus/Resource";
+
+// Setup common properties
+include "Mods/Realism Invictus/Resource/Themes/Realism Invictus/Civ4Theme.thm";
