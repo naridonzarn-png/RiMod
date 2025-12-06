@@ -1808,7 +1808,7 @@
 		<Tag>TXT_KEY_CIV_EGYPT_TRI_DESC</Tag>
 		<English>Kemetic Tribes</English>
 		<French/>
-		<German>Kemetische Stämme</German>
+		<German>Kemetische Stï¿½mme</German>
 		<Italian/>
 		<Spanish/>
 	</TEXT>
@@ -3744,7 +3744,7 @@
 		<Tag>TXT_KEY_CIV_POLAND_MON_DESC</Tag>
 		<English>Kingdom of Poland</English>
 		<French/>
-		<German>Königreich Polen</German>
+		<German>Kï¿½nigreich Polen</German>
 		<Italian/>
 		<Spanish/>
 	</TEXT>
@@ -4809,5 +4809,46 @@
 		<German>Ukrainische Sozialistische Sowjetrepublik</German>
 		<Italian/>
 		<Spanish/>
+	</TEXT>
+	<!-- Tatar Dynamic Names -->
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_NAME_TATARS_1</Tag>
+	<English>Kazan Khanate</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_NAME_TATARS_2</Tag>
+	<English>Crimean Khanate</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_NAME_TATARS_3</Tag>
+	<English>Astrakhan Khanate</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_NAME_TATARS_4</Tag>
+	<English>Sibir Khanate</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_NAME_TATARS_5</Tag>
+	<English>Golden Horde</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_ADJECTIVE_TATARS_1</Tag>
+	<English>Kazan</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_ADJECTIVE_TATARS_2</Tag>
+	<English>Crimean</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_ADJECTIVE_TATARS_3</Tag>
+	<English>Astrakhan</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_ADJECTIVE_TATARS_4</Tag>
+	<English>Sibir</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_DYN_CIV_ADJECTIVE_TATARS_5</Tag>
+	<English>Golden Horde</English>
 	</TEXT>
 </Civ4GameText>

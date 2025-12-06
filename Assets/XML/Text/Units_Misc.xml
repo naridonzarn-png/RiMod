@@ -708,4 +708,39 @@
 			<Plural>0</Plural>
 		</German>
 	</TEXT>
+	<!-- Tarkhan -->
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_TARKHAN</Tag>
+	<English>Tarkhan</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_TARKHAN_PEDIA</Tag>
+	<English>The Tarkhan were Tatar noble cavalrymen who formed the elite core of Tatar armies. Granted special privileges and tax exemptions by their khans, these warriors were masters of hit-and-run tactics, capable of devastating raids and rapid maneuvers across the steppe. Armed with composite bows, lances, and sabers, they combined Mongol discipline with Turkic martial traditions.</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_TARKHAN_STRATEGY</Tag>
+	<English>Tarkhans replace Light Cavalry and are faster, stronger, and cheaper. Their Flanking I promotion and withdrawal chance make them excellent for harassing enemy formations and attacking vulnerable siege units. Use their mobility to control large areas of the map and conduct economic warfare through pillaging.</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_TARKHAN_HELP</Tag>
+	<English>Light Cavalry unit. Faster, stronger, and cheaper than standard Light Cavalry. Starts with Flanking I and Withdrawal promotions.</English>
+	</TEXT>
+
+	<!-- Horse Breeder -->
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_HORSE_BREEDER</Tag>
+	<English>Horse Breeder</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_HORSE_BREEDER_PEDIA</Tag>
+	<English>Tatar horse breeders were specialists in equine husbandry who maintained the superior horse herds that gave Tatar armies their mobility. These experts selectively bred horses for speed, endurance, and resilience, creating the famed steppe breeds that could travel vast distances with minimal sustenance. Their knowledge was passed down through generations and was crucial to Tatar military supremacy.</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_HORSE_BREEDER_STRATEGY</Tag>
+	<English>Horse Breeders are cheaper Workers that can build the unique Horse Stud improvement on horse resources. Use them to develop your horse-producing regions early, providing economic benefits and military experience for your cavalry units.</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_HORSE_BREEDER_HELP</Tag>
+	<English>Worker unit. Cheaper than standard Worker. Can build Horse Stud improvements on horse resources.</English>
+	</TEXT>
 </Civ4GameText>

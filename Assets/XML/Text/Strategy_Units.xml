@@ -1721,5 +1721,15 @@
 		<Tag>TXT_KEY_UNIT_WORKER_STRATEGY</Tag>
 		<English>[NEWLINE][TAB]Use [COLOR_UNIT_TEXT]Workers[COLOR_REVERT] to improve the land around your cities and build roads that help establish trade routes.</English>
 		<German> Not translated. </German>
-	</TEXT>	
+	</TEXT>
+	<!-- Tatar Units Strategy -->
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_TARKHAN_STRATEGY_BODY</Tag>
+	<English>The Tarkhan is the backbone of early Tatar military power. Its superior speed allows it to strike deep into enemy territory, pillage improvements, and retreat before a proper defense can be organized. Use Tarkhans in groups to maximize their flanking bonuses against enemy formations. Their withdrawal chance makes them surprisingly durable for light cavalry. In the Medieval era, they can effectively counter knights and other heavy units through mobility and numbers.</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_UNIT_TATAR_HORSE_BREEDER_STRATEGY_BODY</Tag>
+	<English>Horse Breeders are essential for developing the Tatar economy. Build them early and send them to horse resources to construct Horse Studs. The economic benefits from these improvements will fund your military expansion. Since they're cheaper than regular Workers, you can field more of them simultaneously, accelerating your infrastructure development. Protect them with Tarkhans when operating near hostile borders.</English>
+	</TEXT>
+
 </Civ4GameText>

@@ -1540,4 +1540,21 @@
 		<English>Fran Divo Gundulic</English>
 		<German>Fran Divo Gundulic</German>
 	</TEXT>
+	<!-- ========== TATAR LEADERS ========== -->
+<!-- Ulugh Muhammad -->
+	<TEXT>
+	<Tag>TXT_KEY_LEADER_ULUGH_MUHAMMED</Tag>
+	<English>Ulugh Muhammad</English>
+	</TEXT>
+<!-- Sahib I Giray -->
+	<TEXT>
+	<Tag>TXT_KEY_LEADER_SAHIB_I_GIRAY</Tag>
+	<English>Sahib I Giray</English>
+	</TEXT>
+	<TEXT>
+<!-- Hajji I Giray -->
+	<TEXT>
+	<Tag>TXT_KEY_LEADER_HAJJI_I_GIRAY</Tag>
+	<English>Hajji I Giray</English>
+	</TEXT>
 </Civ4GameText>

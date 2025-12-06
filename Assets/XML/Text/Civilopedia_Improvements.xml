@@ -438,4 +438,22 @@ A large open field to select purebred horses of a given breed.</English>
 Germany is able to build an improved type of routes not available to any other civ: Autobahn.</English>
 		<German>Proa</German>
 	</TEXT>
+	<!-- ========== TATAR IMPROVEMENT ========== -->
+<!-- Horse Stud -->
+	<TEXT>
+	<Tag>TXT_KEY_IMPROVEMENT_HORSE_STUD</Tag>
+	<English>Horse Stud</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_IMPROVEMENT_HORSE_STUD_PEDIA</Tag>
+	<English>A Horse Stud is a specialized Tatar improvement built on horse resources. These establishments combined practical horse breeding with military training grounds, where young warriors learned cavalry tactics alongside grooms and trainers. The studs produced not only superior warhorses but also served as centers for preserving and improving equine bloodlines, making them crucial to maintaining Tatar cavalry dominance.</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_IMPROVEMENT_HORSE_STUD_HELP</Tag>
+	<English>Can only be built by Tatar Horse Breeders on tiles with Horse resources. Provides +1 Production, +1 Gold, and +1 Experience for mounted units trained in the city working this tile.</English>
+	</TEXT>
+	<TEXT>
+	<Tag>TXT_KEY_IMPROVEMENT_HORSE_STUD_STRATEGY</Tag>
+	<English>Build Horse Studs on your horse resources to boost both your economy and military. The extra experience allows your cavalry units to start with promotions, making them more effective in combat. Prioritize building these in cities that produce mounted units.</English>
+	</TEXT>
 </Civ4GameText>
