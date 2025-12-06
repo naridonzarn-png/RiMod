@@ -20577,5 +20577,60 @@
 			<CivilizationSelectionSound>AS3D_OTTOMAN_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_OTTOMAN_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
+		<!-- ========== TATAR CIVILIZATION ========== -->
+		<CivilizationInfo>
+			<Type>CIVILIZATION_TATARS</Type>
+			<Description>TXT_KEY_CIV_TATARS_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_TATARS_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_TATARS_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_TATARS_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_DARK_BLUE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MONGOL</ArtDefineTag> <!-- Используем монгольский арт -->
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_MONGOLIA</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>TXT_KEY_CITY_NAME_KAZAN</City>
+				<City>TXT_KEY_CITY_NAME_BAKHCHISARAY</City>
+				<City>TXT_KEY_CITY_NAME_ASTRAKHAN</City>
+				<City>TXT_KEY_CITY_NAME_KASHAN</City>
+				<City>TXT_KEY_CITY_NAME_QIRIM</City>
+				<City>TXT_KEY_CITY_NAME_SARAY</City>
+				<City>TXT_KEY_CITY_NAME_TOBOLSK</City>
+				<City>TXT_KEY_CITY_NAME_CHINGI_TURA</City>
+				<City>TXT_KEY_CITY_NAME_KOKAND</City>
+				<City>TXT_KEY_CITY_NAME_BUCHAREST</City>
+			</Cities>
+			<Buildings>
+				<Building>
+				<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+				<BuildingType>BUILDING_PALACE</BuildingType>
+				</Building>
+			</Buildings>
+			<Units/>
+			<FreeUnitClasses/>
+			<FreeBuildingClasses/>
+			<FreeTechs/>
+			<DisableTechs/>
+			<Leaders>
+				<Leader>
+				<LeaderName>LEADER_ULUGH_MUHAMMED</LeaderName>
+				<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+				<LeaderName>LEADER_SAHIB_I_GIRAY</LeaderName>
+				<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+				<LeaderName>LEADER_HAJJI_I_GIRAY</LeaderName>
+				<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv/>
+			<CivilizationSelectionSound>AS2D_SELECT_MONGOL</CivilizationSelectionSound>
+			<CivilizationActionSound>AS2D_ACTION_MONGOL</CivilizationActionSound>
+		</CivilizationInfo>
+
 	</CivilizationInfos>
 </Civ4CivilizationInfos>
